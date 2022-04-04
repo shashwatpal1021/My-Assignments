@@ -17,3 +17,4 @@ public class GCD {
       return gcd(b, a % b);
    }
 }
+ 

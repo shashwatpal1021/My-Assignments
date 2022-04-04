@@ -14,3 +14,4 @@ public class Decimal_to_binary {
       return n % 2 + 10 * decimalToBinary(n / 2);
    }
 }
+ 
